@@ -28,7 +28,7 @@
 </style>
   </head>
 
-  <body id="terms-and-conditions">
+  <body id="privacy-policy">
     <header class="header">
       <div class="container-fluid">
         <div class="row">
@@ -37,7 +37,7 @@
     </header>
 
     <div class="container-fluid">
-      <div class="row terms-and-conditions-section">
+      <div class="row privacy-policy-section">
         <div class="col-xs-12 text-center">
           <h1 class="title">Kebijakan Privasi Chick Indonesia</h1>
         </div>
