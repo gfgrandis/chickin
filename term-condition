@@ -1,0 +1,80 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Kebijakan Privasi</title>
+    <meta name="author" content="chickin" />
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="css/custom.css" rel="stylesheet" type="text/css" />
+
+    <style>
+        h1 {
+            font-size:12px;
+            font-weight: 700;
+        }
+        h2 {
+            font-size:12px;
+            font-weight: 600;
+        }
+        body {
+                font-family: 'Montserrat';font-size: 10px;
+            
+        }
+</style>
+  </head>
+
+  <body id="terms-and-conditions">
+    <header class="header">
+      <div class="container-fluid">
+        <div class="row">
+        </div>
+      </div>
+    </header>
+
+    <div class="container-fluid">
+      <div class="row terms-and-conditions-section">
+        <div class="col-xs-12 text-center">
+          <h1 class="title">Syarat dan Ketentuan</h1>
+        </div>
+
+        <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+          <div class="content">
+            <p>
+              PT Sinergi Ketahanan Pangan adalah perusahaan yang berdiri sebagaimana hukum Republik Indonesia dengan SK Menteri Hukum dan Hak Asasi Manusia Republik Indonesia. Perusahaan ini bergerak dibidang industri peternakan, teknologi produksi dan B2B retail ayam. Selanjutnya disebut Chick-In.
+            </p>
+            <p>
+              Aplikasi Chick-In merupakan aplikasi perangkat lunak yang berfungsi sebagai sarana manajemen kandang. Aplikasi ini juga menawarkan informasi terkini tentang penjualan dan harga ayam.
+            </p>
+            <p>
+              Dengan mengunduh atau menggunakan aplikasi, syarat dan ketentuan ini akan secara otomatis berlaku untuk Anda - Anda harus memastikan bahwa Anda membacanya dengan hati-hati sebelum menggunakan aplikasi. Anda tidak diizinkan untuk menyalin, atau memodifikasi aplikasi, bagian mana pun dari aplikasi, atau merek dagang kami dengan cara apa pun. Anda tidak diizinkan untuk mencoba mengekstrak kode sumber aplikasi, dan Anda juga tidak boleh mencoba menerjemahkan aplikasi ke bahasa lain, atau membuat versi turunan. Aplikasi itu sendiri, dan semua merek dagang, hak cipta, hak basis data dan hak kekayaan intelektual lainnya yang terkait dengannya, masih milik Chick-In.
+            </p>
+            <p>
+              Harap diketahui bahwa kami dapat mengubah, memodifikasi, menambah dan menghapus Syarat dan Ketentuan ini sewaktu-waktu tanpa pemberitahuan sebelumnya. Syarat dan Ketentuan harus dibaca secara berkala. Dengan terus menggunakan aplikasi ini setelah perubahan terhadap Syarat dan Ketentuan, pengguna sepakat dan menyetujui perubahan.
+            </p>
+            <p>
+              Aplikasi Chick-In menyimpan dan memproses data pribadi yang telah Anda berikan kepada kami, untuk menyediakan Layanan kami. Anda bertanggung jawab untuk menjaga keamanan ponsel dan akses ke aplikasi. Oleh karena itu, kami menyarankan agar Anda tidak melakukan jailbreak atau membasmi ponsel Anda, yaitu proses penghapusan pembatasan dan pembatasan perangkat lunak yang diberlakukan oleh sistem operasi resmi perangkat Anda. Hal ini bisa membuat ponsel Anda rentan terhadap malware / virus / program berbahaya, membahayakan fitur keamanan ponsel Anda dan itu bisa berarti bahwa aplikasi Chick-In tidak akan berfungsi dengan baik atau sama sekali.
+            </p>
+            <p>
+              Anda berjanji bahwa Anda akan menggunakan Aplikasi hanya untuk tujuan yang dimaksud untuk mendapatkan Layanan. Anda tidak diperbolehkan untuk menyalahgunakan atau menggunakan Aplikasi untuk tujuan penipuan atau menyebabkan ketidaknyamanan kepada orang lain atau melakukan pemesanan palsu.
+            </p>
+            <p>
+              Chick-In memiliki kewenangan untuk mengenakan larangan pada Anda untuk menggunakan Aplikasi lebih lanjut jika Anda menggunakan Aplikasi dengan perangkat yang tidak sesuai atau tidak sah atau untuk tujuan lain selain daripada tujuan yang dimaksud untuk penggunaan Aplikasi ini. Anda memahami, menerima dan setuju bahwa penggunaan Aplikasi Chick-In, sehingga Anda akan tunduk pula pada Kebijakan Privasi Chick-In sebagaimana dapat diubah dari waktu ke waktu. Dengan menggunakan Aplikasi, Anda juga memberikan persetujuan dan bersedia terikat terhadap Kebijakan Privasi Chick-In.
+            </p>
+            <p>
+              Pada waktu tertentu, kami mungkin ingin memperbarui aplikasi. Aplikasi ini saat ini tersedia di Android. Persyaratan untuk sistem ini (dan untuk sistem tambahan apapun yang kami putuskan untuk memperluas ketersediaan aplikasi) dapat berubah, dan Anda harus mengunduh pembaruan jika Anda ingin tetap menggunakan aplikasi. Chick-In tidak menjanjikan bahwa aplikasi ini akan selalu diperbarui sehingga relevan bagi Anda dan/atau bekerja sama dengan versi Android yang telah Anda instal di perangkat Anda. Namun, Anda perlu menerima pembaruan pada aplikasi ketika ditawarkan kepada Anda agar aplikasi dapat berjalan dengan performa terbaiknya.
+            </p>
+            <p>
+              Jika Anda memiliki pertanyaan atau saran tentang Syarat dan Ketentuan kami, jangan ragu untuk menghubungi kami di contactchickin@gmail.com.
+            </p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
