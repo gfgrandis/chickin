@@ -1,0 +1,138 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Kebijakan Privasi</title>
+    <meta name="author" content="chickin" />
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="css/custom.css" rel="stylesheet" type="text/css" />
+
+    <style>
+        h1 {
+            font-size:12px;
+            font-weight: 700;
+        }
+        h2 {
+            font-size:12px;
+            font-weight: 600;
+        }
+        body {
+                font-family: 'Montserrat';font-size: 10px;
+            
+        }
+</style>
+  </head>
+
+  <body id="terms-and-conditions">
+    <header class="header">
+      <div class="container-fluid">
+        <div class="row">
+        </div>
+      </div>
+    </header>
+
+    <div class="container-fluid">
+      <div class="row terms-and-conditions-section">
+        <div class="col-xs-12 text-center">
+          <h1 class="title">Kebijakan Privasi Chick Indonesia</h1>
+        </div>
+
+        <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+          <div class="content">
+            <p>
+              Chick-In berkomitmen untuk melindungi privasi Anda. Kebijakan Privasi ini menjelaskan praktik kami sehubungan dengan privasi informasi pada Data Pribadi yang kami proses melalui penggunaan individu Anda atas layanan, dan aplikasi kami.
+            </p>
+            <p>
+              Dengan mengakses, mengunduh, atau menggunakan layanan Chick-In, Anda dianggap dengan sadar telah memahami adanya aktivitas pengumpulan, pemrosesan, pertukaran informasi Anda, termasuk informasi pribadi dan data pengguna. Privasi anda adalah hal yang penting bagi kami, maka mohon untuk pahami bagaimana ketentuan privasi kami bekerja dan hubungi kami jika dirasa ada hal yang kurang dipahami.<br>Anda dapat menghubungi kami di contactchickin@gmail.com.
+            </p>
+
+            <h2 class="section-title">Informasi yang Dapat Kami Kumpulkan dari Anda</h2>
+            <p>
+              Saat Anda menggunakan Layanan, kami dapat mengumpulkan berbagai macam data berikut dari Anda sebagai berikut:
+            </p>
+            <ol>
+                <li>
+                    Informasi yang Anda Berikan kepada kami secara Sukarela
+                </li>
+                    <ul>
+                        <li>
+                            Data pribadi, seperti Nama Lengkap, Email, Nomor Telepon, serta Nomor KTP (khusus Petugas PPL). Data ini kami peroleh langsung dari Anda melalui pengisian di aplikasi Chick-In ketika Anda membuat akun pengguna. Data ini akan kami gunakan untuk mengidentifikasi Anda dan mengesahkan pengguna aplikasi Chick-In dengan tujuan pencegahan kehilangan dan penipuan.
+                        </li>
+                        <li>
+                            Data umum dan operasional kandang. Data ini Anda dikumpulkan melalui data dan informasi yang anda masukkan ke aplikasi Chick-In. Data umum kandang meliputi Alamat Kandang, Total Populasi Kandang, Jenis Kandang, Tipe Kandang, serta Jumlah Flock Kandang. Sedangkan, data operasional kandang meliputi data sapronak, data kegiatan harian, data penjualan, data nekropsi, serta data IoT.
+                        </li>
+                        <li>
+                            Kamera dan Foto. Beberapa fitur kami mengharuskan kami untuk mengumpulkan gambar dari kamera dan galeri perangkat Anda. Salah satunya adalah Anda tidak dapat menyimpan data nekropsi kandang sebelum mengunggah foto nekropsi yang berkaitan.
+                        </li>
+                    </ul><br> 
+                <li>
+                    Informasi yang Anda Berikan kepada kami secara Otomatis
+                </li>
+                    <ul>
+                        <li>
+                            Data Penggunaan. Selama interaksi Anda dengan layanan kami, kami secara otomatis mengumpulkan data penggunaan yang berkaitan dengan kunjungan, klik, dan penggunaan lain dari layanan kami.
+                        </li>
+                        <li>
+                            Data lokasi. Ketika Anda mengaktifkan fungsi berbasis lokasi melalui pengaturan izin pada perangkat seluler Anda, kami akan mengumpulkan dan memproses informasi lokasi Anda untuk mengaktifkan fitur tertentu, seperti perkiraan cuaca, kelembaban, suhu, dan lainnya. Lokasi GPS Anda dapat membantu kami untuk mengetahui lokasi Anda pada tingkatan presisi tinggi. Kami dapat mengumpulkan dan menggunakan informasi lokasi GPS Anda untuk dapat memperkaya layanan kami kepada para pengguna produk Chick-In.
+                        </li>
+                        <li>
+                            Informasi Dasar Perangkat Pintar. Ketika Anda menghubungkan Perangkat Pintar Anda dengan alat IoT kami, kami dapat mengumpulkan informasi dasar tentang Perangkat Pintar Anda seperti nama perangkat, ID perangkat, status online, waktu aktivasi, versi firmware, dan informasi peningkatan.
+                        </li>
+                    </ul> 
+            </ol>
+
+            <h2 class="section-title">Tujuan Kami Menggunakan Informasi Anda</h2>
+            <ul>
+              <li>
+                Umum. Kami akan menggunakan informasi pribadi untuk menjalankan, mengatur, dan mengelola akun Anda beserta layanannya; untuk memantau penggunaan layanan; untuk meningkatkan layanan aplikasi Chick-In serta untuk mengembangkan dan menguji produk baru, layanan, situs, web app atau aplikasi; untuk dapat memenuhi kebutuhan konsumen; untuk memberikan Anda informasi mengenai layanan Chick-In; untuk menyelesaikan permasalahan yang mungkin muncul; untuk membantu kami dalam penegakan hukum, untuk menjalankan ketentuan ini; atau untuk kebutuhan lain di dalam ketentuan ini atau yang kami sampaikan kepada Anda pada saat melakukan pengumpulan data dan informasi Anda.
+              </li>
+              <li>
+                Komunikasi. Kami dapat menggunakan informasi pribadi Anda untuk mengirimkan email, pemberitahuan, pesan singkat, atau komunikasi lainnya yang berhubungan dengan layanan Chick-In yang Anda gunakan, akun Anda, atau untuk merespon permintaan Anda. Anda tidak dapat berhenti berlangganan atau berhenti menerima email mengenai layanan Chick-In yang bukan merupakan konten promosi. Kami juga dapat mengirimkan Anda email promosi untuk memberitahu Anda mengenai layanan Chick-In yang mungkin menarik untuk Anda. Jika anda ingin berhenti menerima pesan promo dari kami dan pihak ketiga, mohon untuk mengklik tombol atau link untuk berhenti berlangganan pada setiap email non layanan yang Anda terima. Jika anda telah berhenti berlangganan, Anda akan tetap menerima email komunikasi yang berkaitan dengan layanan Chick-In dari kami.
+              </li>
+            </ul>
+            
+            <h2 class="section-title">Bagaimana Kami Mengungkapkan Informasi Anda</h2>
+            <p>
+              Kami tidak menjual, menyewakan, atau mengungkapkan data pribadi yang berkaitan dengan pengguna kami kepada pihak ketiga kecuali dinyatakan selain di bawah ini.
+            </p>
+            <p>
+              Data pribadi yang dikumpulkan dalam Layanan dapat diungkapkan dengan cara berikut:
+            </p>
+            <ul>
+              <li>
+                Aplikasi Chick-In menyediakan informasi kepada rekanan yang Anda percayakan bekerja untuk dan atas nama Chick-In dibawah perjanjian-perjanjian kerahasiaan. Perusahaan-perusahaan ini dapat menggunakan identitas pribadi Anda untuk membantu Aplikasi Chick-In berkomunikasi dengan Anda tentang penawaran-penawaran dari Aplikasi Chick-In dan rekanan-rekanan layanan kami. Akan tetapi, perusahaan-perusahaan ini tidak berhak untuk memakai informasi dan/atau data pribadi Anda.
+              </li>
+              <li>
+                Kami merespons panggilan dari pengadilan, permintaan pengadilan atau proses hukum atau untuk menerapkan hak-hak hukum kami atau mempertahankan hak kami terhadap tuntutan hukum.
+              </li>
+              <li>
+                Kami yakin bahwa ini sangatlah penting untuk membagi informasi dan/atau data dalam rangka penyelidikan, pencegahan, atau pengambilan tindakan terhadap kegiatan yang tidak sah, dugaan penipuan, situasi-situasi yang dapat mengakibatkan keselamatan fisik dari orang lain, pelanggaran atas penggunaan aplikasi Chick-In dan/atau kewajiban-kewajiban hukum lainnya.
+              </li>
+            </ul>
+
+            <h2 class="section-title">Perlindungan Data dan Informasi Pribadi</h2>
+            <p>
+              Perlindungan data dan Informasi Pribadi Anda adalah suatu kewajiban bagi Chick-In. Chick-In akan memberlakukan langkah-langkah untuk melindungi dan mengamankan data dan Informasi Pribadi Anda. Namun demikian, Chick-In tidak dapat sepenuhnya menjamin bahwa sistem Chick-In tidak akan diakses oleh virus, malware, gangguan atau kejadian luar biasa termasuk akses oleh pihak ketiga yang tidak berwenang. Anda harus menjaga keamanan dan kerahasiaan data yang berkaitan dengan akun Anda pada Aplikasi termasuk kata sandi dan data-data lainnya yang Anda berikan di dalam Aplikasi ini.
+            </p>
+
+            <h2 class="section-title">Perubahan Terkait Kebijakan Privasi</h2>
+            <p>
+              Chick-In dapat mengubah Kebijakan Privasi ini untuk sejalan dengan perkembangan kegiatan bisnis Chick-In atau dipersyaratkan oleh peraturan perundang-undangan dan institusi pemerintah terkait. Jika Chick-In mengubah Kebijakan Privasi ini, Chick-In akan memberitahu Anda melalui email atau memberikan notifikasi pada Aplikasi 1 (satu) hari sebelum perubahan berlaku. Chick-In meminta Anda untuk meninjau Aplikasi secara reguler dan terus-menerus selama Anda menggunakan Aplikasi untuk mengetahui informasi terbaru tentang bagaimana ketentuan Kebijakan Privasi ini Chick-In diberlakukan.
+            </p>
+
+            <h2 class="section-title">Pertanyaan Mengenai Ketentuan Privasi</h2>
+            <p>
+              Jika anda memiliki pertanyaan dan masukan mengenai ketentuan ini, anda dapat menghubungi kami di contactchickin@gmail.com.
+            </p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
